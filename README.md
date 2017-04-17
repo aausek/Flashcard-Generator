@@ -2,6 +2,10 @@
 
 ### This application allows the user to create basic and cloze-deleted flashcards using.
 
+### Basic flashcards are displayed using the following the format:
+
+ 1. **Basic** flashcards, which have a front (_"Who was the first president of the United States?"_), and a back (_"George Washington"_).
+
 ### A flash card built in the cloze-deleted fashion has three parts:
 
  1. The full text. This is the entire sentence users need to remember: "George Washington was the first president of the United States."
