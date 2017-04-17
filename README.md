@@ -2,7 +2,7 @@
 
 ### Clone the repo in order to run the `app.js` file and `npm install` to ensure you have the correct packages to execute the application.
 
-### This application allows the user to create basic and cloze-deleted flashcards using node.js & to play a trivia-like game. ### The app keeps score of questions answered, correct & incorrect answers as well.
+### This application allows the user to create basic and cloze-deleted flashcards using node.js & to play a trivia-like game.  The app keeps score of questions answered, correct & incorrect answers as well.
 
 ### Basic flashcards are displayed using the following the format:
 
