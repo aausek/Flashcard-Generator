@@ -1,6 +1,6 @@
 # Flashcard-Generator
 
-## Clone the repo in order to run the `app.js` file and `npm install` to ensure you have the correct packages to execute the application.
+### Clone the repo in order to run the `app.js` file and `npm install` to ensure you have the correct packages to execute the application.
 
 ### This application allows the user to create basic and cloze-deleted flashcards using node.js
 
